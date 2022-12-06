@@ -1,0 +1,4 @@
+git status - verifica se existe algum novo arquivo
+git add . - adiciona todos os novos arquivos
+git commit -m "mensagem" - prepara os arquivos para enviar para o servidor
+git push origin main - envia todos os commits para a nuvem
